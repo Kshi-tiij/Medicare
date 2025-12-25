@@ -69,12 +69,7 @@ export function Header({ cartItemCount, onCartClick, onLogoClick, onSearch, user
                         >
                             Products
                         </button>
-                        <button
-                            onClick={() => scrollToSection('services')}
-                            className="text-gray-700 hover:text-teal-600 transition-colors"
-                        >
-                            Categories
-                        </button>
+
                         <button
                             onClick={() => scrollToSection('about')}
                             className="text-gray-700 hover:text-teal-600 transition-colors"
@@ -209,12 +204,7 @@ export function Header({ cartItemCount, onCartClick, onLogoClick, onSearch, user
                         >
                             Products
                         </button>
-                        <button
-                            onClick={() => scrollToSection('services')}
-                            className="block w-full text-left py-2 text-gray-700 hover:text-teal-600 transition-colors"
-                        >
-                            Categories
-                        </button>
+
                         <button
                             onClick={() => scrollToSection('about')}
                             className="block w-full text-left py-2 text-gray-700 hover:text-teal-600 transition-colors"
