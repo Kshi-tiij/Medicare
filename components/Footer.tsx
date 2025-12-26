@@ -109,7 +109,7 @@ export function Footer() {
 
                     {/* Bottom Bar */}
                     <div className="flex flex-col md:flex-row items-center justify-between text-sm text-gray-400 gap-4">
-                        <p>© 2024 MediCare. All rights reserved.</p>
+                        <p>© 2025 MediCare. All rights reserved.</p>
                         <div className="flex flex-wrap gap-4">
                             <a href="#" className="hover:text-teal-400 transition-colors">Privacy Policy</a>
                             <span>•</span>
